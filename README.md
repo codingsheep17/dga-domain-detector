@@ -6,10 +6,11 @@ A simple Streamlit-based web application for text processing and prediction usin
 
 ## 📁 Project Structure
 .
-├── src/
-│ └── streamlit_app.py
+├── app.py
 ├── requirements.txt
 ├── README.md
+├── dga_model.keras
+├── vectorizer.joblib
 
 
 ---
